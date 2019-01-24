@@ -1,0 +1,4 @@
+[
+  "scripts/test_sms.py::TestSms::()::test_input_receiver",
+  "scripts/test_sms.py::TestSms::()::test_send_sms"
+]

@@ -1,0 +1,5 @@
+smsdata: ['aaa','bbb','ccc']
+#smsdata:
+#  - aaa
+#  - bbb
+#  - ccc
